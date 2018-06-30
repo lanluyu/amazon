@@ -20,4 +20,4 @@ amazon是一个基于Scrapy-Selenium的爬取amazon个人订单信息的爬虫�
 爬取结果
 -
 输出的cookie和订单信息如下截图:<br>
-![订单详情截图](https://github.com/lanluyu/jingdong/blob/master/phone.PNG)
+![订单详情截图](https://github.com/lanluyu/amazon/blob/master/%E8%BE%93%E5%87%BA%E7%BB%93%E6%9E%9C.PNG)
